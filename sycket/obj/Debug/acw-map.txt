@@ -1,0 +1,3 @@
+sycket.MainActivity;sycket.MainActivity
+sycket.SycketListAdapter;sycket.SycketListAdapter
+sycket.ticketActivity;sycket.ticketActivity
